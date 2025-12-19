@@ -1,4 +1,4 @@
-# 과제: https://github.com/juho127/TimeSeriesForecastingTest 를 참고하여(git fork) 자신의 repo에 과제노트북파일과 실습 내용을 기반으로 1. 모델을 설계하고 훈련한다음 2. 투자전략을 설계하여 적용하고 3. 벤치마크 전략과 비교하여 분석
+## 과제: https://github.com/juho127/TimeSeriesForecastingTest 를 참고하여(git fork) 자신의 repo에 과제노트북파일과 실습 내용을 기반으로 1. 모델을 설계하고 훈련한다음 2. 투자전략을 설계하여 적용하고 3. 벤치마크 전략과 비교하여 분석
 
 ## 1. 모델을 설계하고 훈련
 실습 자료에서 제공된 LSTM 기반 딥러닝 모델을 활용하여 비트코인 가격 데이터로 학습을 진행했습니다.
